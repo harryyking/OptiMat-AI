@@ -1,0 +1,94 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+}
+
+body {
+  background-color: #f4f4f9 !important;
+  overflow: auto; 
+}
+
+nav{
+  padding: 12px !important;   
+  background-color: #20Be7c ;
+  color: #fff;
+}
+a{
+  color: #fff !important;
+}
+
+#questionnaire .title{
+  text-align: left;
+}
+#questionnaire {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  width: 90%;
+  max-width: 600px;
+  margin: auto; 
+  margin-top: 20px;
+  row-gap: 30px;
+  position: relative; 
+  overflow: hidden; 
+  display: flex;
+  flex-direction: column; 
+  height: 500px;
+}
+
+
+.title header{
+  font-weight: 600;
+}
+.title p{
+  font-size: 10px;
+}
+
+.button-submit{
+  display: flex;
+  align-items: center;
+}
+
+.register-button {
+  background-color: #20Be7c ; 
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 30px;
+  transition: background-color 0.3s;
+  width: 250px;
+  height: 48px;
+  border-style: none;
+  display: block;
+  margin: auto;
+}
+
+button:hover {
+  background-color: #1aaf86;
+}
+
+
+.question-container{
+  margin-bottom: 30px;
+}
+
+label {
+  display: block;
+  margin-bottom: 8px;
+  
+}
+
+input[type="text"] {
+  width: calc(100% - 20px);
+  padding: 8px 10px;
+  border: 2px solid #ddd;
+  border-radius: 4px;
+  box-sizing: border-box; 
+}
+

@@ -1,0 +1,107 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+}
+
+body {
+  background-color: #f4f4f9 !important;
+  overflow: auto; 
+}
+
+nav{
+  padding: 12px !important;   
+  background-color: #20Be7c ;
+  color: #fff;
+}
+a{
+  color: #fff !important;
+}
+
+.response-container {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  width: 90%;
+  max-width: 600px;
+  margin: auto; 
+  margin-top: 20px;
+  row-gap: 30px;
+  position: relative; 
+  overflow: hidden; 
+  display: flex;
+  flex-direction: column; 
+  
+}
+
+
+.response {
+  padding: 40px;
+  max-width: 700px;
+  background-color: rgb(255, 249, 249);
+  border-width: 4px;
+  border-radius: 10px;
+  padding: 50px;
+  display: block;
+}
+
+.title {
+  font-weight: bold;
+  font-style: italic;
+  margin-bottom: 60px;
+}
+
+.material-key {
+  font-weight: bold;
+}
+
+.material {
+  margin-bottom: 40px;
+}
+
+.reason-key {
+  font-style: italic;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.reason-text {
+  font-style: italic;
+}
+
+.reason {
+  margin-bottom: 40px;
+}
+
+.key_properties-key {
+  font-style: italic;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-radius: 10px;
+  border: 1px solid rgb(162, 203, 255);
+}
+
+button:hover {
+  border: 1px solid rgb(207, 227, 253);
+}
