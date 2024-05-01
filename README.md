@@ -49,7 +49,7 @@ this project assumes:
 6. Run the following code to start the project
    
    ```
-   flask --app optiMat --run debug
+   flask --app optiMat run --debug
    ```
 
 A video presentation on OptiMat AI 
