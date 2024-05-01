@@ -12,7 +12,7 @@ Opti-Mat is a material selection AI assistant that recommends the most suitable 
 
 Note: this project was built on windows and the instructions are for windows and cmd terminal.
 this project assumes:
-1. python is installed
+1. python is installed(latest version)
 2. virtualenv is installed
 
 ## Getting Started
@@ -51,3 +51,9 @@ this project assumes:
    ```
    flask --app optiMat --run debug
    ```
+
+A video presentation on OptiMat AI 
+
+https://github.com/harryyking/OptiMat-AI/assets/87400506/e6492637-38d3-4557-a31f-6cc63f74fb4f
+
+
