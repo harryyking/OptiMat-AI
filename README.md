@@ -1,5 +1,5 @@
 # OptiMat-AI
-Opti-Mat is a material selection AI assistant that recommends the most suitable material for your use case. It is designed to assist engineers, designers, and material scientists in selecting the optimal material for their projects. By leveraging AI algorithms, Opti-Mat analyzes various parameters and requirements to provide personalized recommendations for materials that best meet the specific needs of each project.
+Opti-Mat is a material selection AI assistant that recommends the most suitable material for your use case. It is designed to assist engineers, designers, and material scientists in selecting the optimal material for their projects. By leveraging AI algorithms, Opti-Mat analyzes various parameters and requirements to provide personalized recommendations for materials that best meet the specific needs of each project. OptiMat-AI can be integrated into CAD software systems or can be used as a standalone application to help get a user from an idea to manufacturing in seconds. 
 
 ## Features
 
